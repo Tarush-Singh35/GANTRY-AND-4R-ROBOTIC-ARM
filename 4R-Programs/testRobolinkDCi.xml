@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- values in mm and degree -->
+<Program>
+	<Header />
+<Joint Nr="0" a1="0" a2="-13.42" a3="20.3" a4="80" a5="0" a6="0" e1="0" e2="0" e3="0" velPercent="50" acc="40" smooth="20" AbortCondition="false" Descr="" />
+<Joint Nr="1" a1="-14.58" a2="9.44" a3="12.47" a4="64.16" a5="0" a6="0" e1="0" e2="0" e3="0" velPercent="50" acc="40" smooth="0" AbortCondition="false" Descr="" />
+<Joint Nr="2" a1="22.19" a2="12.05" a3="9.14" a4="65.66" a5="36.73" a6="0" e1="0" e2="0" e3="0" velPercent="50" acc="40" smooth="0" AbortCondition="false" Descr="" />
+<Joint Nr="3" a1="0" a2="-13.42" a3="20.3" a4="80" a5="0" a6="0" e1="0" e2="0" e3="0" velPercent="50" acc="40" smooth="20" AbortCondition="false" Descr="" />
+</Program>

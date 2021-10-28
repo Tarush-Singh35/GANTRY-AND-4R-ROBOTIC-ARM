@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Program>
+    <Header RobotName="igus Arm" RobotType="RL-DCi-4S-M" GripperType="" Software="CPRog V902-12-019" VelocitySetting="0" />
+    <Joint AbortCondition="False" Nr="1" Source="Numerical" velPercent="40" acc="40" smooth="0" a1="2.27" a2="10.64" a3="10.94" a4="64.87" a5="0" a6="0" e1="0" e2="0" e3="0" Descr="" />
+    <Joint AbortCondition="False" Nr="2" Source="Numerical" velPercent="40" acc="40" smooth="0" a1="30" a2="27" a3="10" a4="75" a5="0" a6="0" e1="0" e2="0" e3="0" Descr="" />
+    <Joint AbortCondition="False" Nr="3" Source="Numerical" velPercent="40" acc="40" smooth="0" a1="5.13" a2="-11.65" a3="19.69" a4="78.77" a5="0" a6="0" e1="0" e2="0" e3="0" Descr="" />
+    <Joint AbortCondition="False" Nr="4" Source="Numerical" velPercent="40" acc="40" smooth="0" a1="-1.13" a2="-18.65" a3="29.69" a4="53.77" a5="0" a6="0" e1="0" e2="0" e3="0" Descr="" />
+</Program>
